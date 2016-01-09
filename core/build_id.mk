@@ -1,4 +1,5 @@
 #
+# Copyright (C) 2016 Console, Inc.
 # Copyright (C) 2008 The Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -18,4 +19,4 @@
 # (like "CRB01").  It must be a single word, and is
 # capitalized by convention.
 
-export BUILD_ID=LMY48W
+export BUILD_ID=LMY48Z
