@@ -19,6 +19,10 @@
 # devices (including non-phones and non-tablets), modify
 # core_minimal.mk instead. If you care about wearables, you need to modify
 # core_tiny.mk in addition to core_minimal.mk.
+#
+# Disabled
+#     Launcher2 \
+
 
 PRODUCT_PACKAGES += \
     BasicDreams \
@@ -40,7 +44,6 @@ PRODUCT_PACKAGES += \
     KeyChain \
     Keyguard \
     LatinIME \
-    Launcher2 \
     ManagedProvisioning \
     PicoTts \
     PacProcessor \

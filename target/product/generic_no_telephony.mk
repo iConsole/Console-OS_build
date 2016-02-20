@@ -18,6 +18,7 @@
 # It includes the base Android platform.
 
 PRODUCT_PACKAGES := \
+    Trebuchet \
     Bluetooth \
     Camera2 \
     Gallery2 \
@@ -53,7 +54,6 @@ PRODUCT_PACKAGES += \
     OsmAnd-20160201 \
     noxx.evil.yet.another.phase.beam-1 \
     OpenCamera \
-    Trebuchet \
     com.google.android.apps.authenticator2 
 
 PRODUCT_COPY_FILES := \
