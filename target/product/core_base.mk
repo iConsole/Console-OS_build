@@ -20,7 +20,7 @@
 
 
 PRODUCT_PROPERTY_OVERRIDES := \
-    ro.config.notification_sound=Francis.ogg \
+    ro.config.notification_sound=Europa.ogg \
     ro.config.alarm_alert=Alarm_Classic.ogg
 
 PRODUCT_PACKAGES += \
